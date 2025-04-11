@@ -1,5 +1,7 @@
 # 🌦️ Weather App
 
+[![Live Demo](https://img.shields.io/badge/Render-Live_Demo-%2346E3B7?logo=render)](https://weather-app-ows8.onrender.com) 
+
 A simple, elegant weather application that displays real-time weather data for any location. Built with [React](https://reactjs.org/) + [OpenWeatherMap API](https://openweathermap.org/api).
 
 ![Demo Screenshot](./public/Screenshot%20(41).png)
