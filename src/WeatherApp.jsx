@@ -11,6 +11,7 @@ export default function WeatherApp(){
         maxTemp : 35,
         minTemp : 32,
         weather : "haze",
+        humidity :19,
     })
 
     let updateInfo = (weatherData) =>{
