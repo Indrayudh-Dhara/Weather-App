@@ -1,0 +1,11 @@
+.searchbox{
+    text-align: center;
+}
+.alert{
+    margin-top: 1.5rem;
+   
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    width: 40%;
+}
